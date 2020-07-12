@@ -1,0 +1,86 @@
+@media all and (max-width: 952px){
+	
+	
+	.row {
+	width: 83rem;
+	
+}
+	
+}
+
+@media all and (max-width: 844px){
+	
+	
+	.row {
+     width:71rem;
+	
+}
+	
+}
+
+@media all and (max-width: 758px){
+	
+.row {
+	width: 65rem;
+}
+	.logo {
+	width: 11%;
+	
+	
+}
+	
+}
+
+@media all and (max-width: 650px){
+	
+.main-menu {
+	
+	float: left;
+	
+}
+	.row {
+	width: 69rem;
+}
+}
+
+
+
+@media all and (max-width: 1246px){
+	
+html {
+	font-size: 55%;
+}
+}
+@media all and (max-width: 1100px){
+	
+html {
+	font-size: 54%;
+}
+}
+@media all and (max-width: 1050px){
+	html {
+	font-size: 51%;
+}
+
+}
+
+
+@media all and (max-width: 1022px){
+html {
+	font-size: 46%;
+}
+.text h1 {
+	font-size: 3rem;
+	
+}
+
+}
+
+
+@media all and (max-width: 986px){
+
+
+
+}
+
+
